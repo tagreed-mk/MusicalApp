@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tagreed.abnd.musicalapp.PaymentActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/PaymentActivityDescription"
+            android:gravity="center"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@color/colorHighLight"
+            android:textStyle="bold"
+            android:layout_marginBottom="@dimen/Margin25Size"
+            android:layout_marginTop="@dimen/Margin10Size"/>
+    </TableRow>
+<TableRow>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Point1"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColor="@color/colorBlack"
+        android:layout_marginBottom="@dimen/Margin10Size"/>
+</TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Point2"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/colorBlack"
+            android:layout_marginBottom="@dimen/Margin10Size"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Point3"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/colorBlack"
+            android:layout_marginBottom="@dimen/Margin10Size"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Poiny4"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/colorBlack"
+            android:layout_marginBottom="@dimen/Margin10Size"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Point5"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/colorBlack"/>
+    </TableRow>
+</TableLayout>
+</RelativeLayout>
+</ScrollView>

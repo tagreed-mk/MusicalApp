@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MusicalApp</string>
+    <string name="LibraryLabel">Library</string>
+    <string name="RecentAdded">Recently Added</string>
+    <string name="ExploreLabel">Explore></string>
+    <string name="MainActivityDescription">Fast play song that recently added in any music library</string>
+    <string name="AddedIn">Recently Added in</string>
+    <string name="AlbumLibrary">Album Library</string>
+    <string name="PlayLabel">Play Song</string>
+    <string name="ArtistsLibrary">Artists Library</string>
+    <string name="SongActivityDescription">In this Activity hear your Song or pay for downloaded</string>
+    <string name="SongName">Song Name - </string>
+    <string name="ArtistName">Artist Name</string>
+    <string name="PayDownload">pay/download</string>
+    <string name="PaymentActivityDescription">Payment Activity Implementation Steps</string>
+    <string name="Point1">1.Add Android Mobile Payment Library SDK in lib folder. API downloded from PayPal Site</string>
+    <string name="Point2">2.Add permission in AndroidManifest file and Declare the API</string>
+    <string name="Point3">3.Design UI in Payment Activity to gather data from user</string>
+    <string name="Poiny4">4.Configure the PayPal Object and integrate the data from user with paypal using the function in paypal lib</string>
+    <string name="Point5">5.Create the payment after user press button and lunch the payment Intent to send the request to paypal server if its proof the payment complet</string>
+    <string name="LibraryActivityDescription">In this Activity classify all Library in Musical app we indicate here to 2 Libraries (Artist and Album)only as example  </string>
+    <string name="AlbumActivityDescription">In this Activity show an album library content</string>
+    <string name="ArtistActivityDescription">In this Activity show an artist library content</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TextSizeXL">45dp</dimen>
+    <dimen name="WidthLinearVerticalSize">0dp</dimen>
+    <dimen name="Margin10Size">10dp</dimen>
+    <dimen name="Margin150Size">150dp</dimen>
+    <dimen name="TinyTextSize">9dp</dimen>
+    <dimen name="Margin30Size">30dp</dimen>
+    <dimen name="Margin25Size">25dp</dimen>
+</resources>
